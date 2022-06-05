@@ -1,4 +1,4 @@
-# music
+# narrative-marketplace
 
 ## Project setup
 ```
